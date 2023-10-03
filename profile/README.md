@@ -14,7 +14,7 @@ Status: `actively-developed`
 
 Type: `minecraft-modpack`, `minecraft-mod`
 
-A Minecraft modpack taking the game experience of Create: Above and Beyond to modern game versions and modloader, with less mods and better performance.
+A Minecraft modpack taking the game experience of Create: Above and Beyond to modern game versions and modloader, with fewer mods and better performance.
 
 ### [rimecraft](https://github.com/rimecraft-rs/rimecraft)
 
