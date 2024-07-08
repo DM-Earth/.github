@@ -8,13 +8,13 @@
 
 ## Projects
 
-### [Cabricality](https://github.com/DM-Earth/Cabricality)
+### [curseofrust](https://codeberg.org/DM-Earth/curseofrust)
 
 Status: `actively-developed`
 
-Type: `minecraft-modpack`, `minecraft-mod`
+Type: `game`, `lib`
 
-A Minecraft modpack taking the game experience of Create: Above and Beyond to modern game versions and modloader, with fewer mods and better performance.
+The real time strategy game for all platforms. Also curseofwar ported to Rust.
 
 ### [rimecraft](https://github.com/rimecraft-rs/rimecraft)
 
@@ -24,7 +24,15 @@ Type: `game`, `lib`
 
 A work-in-progress Minecraft implementation, providing building blocks to construct Rust Minecraft-related projects.
 
-## [Tuffous](https://github.com/DM-Earth/Tuffous)
+### [Cabricality](https://github.com/DM-Earth/Cabricality)
+
+Status: `actively-developed`
+
+Type: `minecraft-modpack`, `minecraft-mod`
+
+A Minecraft modpack taking the game experience of Create: Above and Beyond to modern game versions and modloader, with fewer mods and better performance.
+
+### [Tuffous](https://github.com/DM-Earth/Tuffous)
 
 Status: `passively-maintained`
 
